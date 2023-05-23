@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684855305 source:c:\users\casper\onedrive\masaüstü\code blocks\scrollcharacters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
